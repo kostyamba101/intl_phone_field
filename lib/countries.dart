@@ -623,7 +623,7 @@ const List<Country> countries = [
     maxLength: 7,
   ),
   Country(
-    name: "Belarus",
+    name: "Беларусь",
     nameTranslations: {
       "sk": "Bielorusko",
       "se": "Vilges-Ruošša",
@@ -3258,7 +3258,7 @@ const List<Country> countries = [
     maxLength: 6,
   ),
   Country(
-    name: "Israel",
+    name: "Израиль",
     nameTranslations: {
       "sk": "Izrael",
       "se": "Israel",
@@ -3444,7 +3444,7 @@ const List<Country> countries = [
     maxLength: 9,
   ),
   Country(
-    name: "Kazakhstan",
+    name: "Казахстан",
     nameTranslations: {
       "sk": "Kazachstan",
       "se": "Kasakstan",
@@ -5521,7 +5521,7 @@ const List<Country> countries = [
     maxLength: 9,
   ),
   Country(
-    name: "Russia",
+    name: "Россия",
     nameTranslations: {
       "sk": "Rusko",
       "se": "Ruošša",
@@ -7071,7 +7071,7 @@ const List<Country> countries = [
     maxLength: 9,
   ),
   Country(
-    name: "Ukraine",
+    name: "Украина",
     nameTranslations: {
       "sk": "Ukrajina",
       "se": "Ukraina",
