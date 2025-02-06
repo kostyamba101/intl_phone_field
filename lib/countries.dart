@@ -3,6 +3,37 @@
 
 const List<Country> countries = [
   Country(
+    name: "Абхазия",
+    nameTranslations: {
+      "sk": "Abcházsko",
+      "se": "Abkhasia",
+      "pl": "Abchazja",
+      "no": "Abkhasia",
+      "ja": "アブハジア",
+      "it": "Abcasia",
+      "zh": "阿布哈兹",
+      "nl": "Abchazië",
+      "de": "Abchasien",
+      "fr": "Abkhazie",
+      "es": "Abjasia",
+      "en": "Abkhazia",
+      "pt_BR": "Abecásia",
+      "sr-Cyrl": "Абхазија",
+      "sr-Latn": "Abhazija",
+      "zh_TW": "阿布哈茲",
+      "tr": "Abhazya",
+      "ro": "Abhazia",
+      "ar": "أبخازيا",
+      "fa": "آبخاز",
+      "yue": "阿布哈茲"
+    },
+    flag: "🇦🇧",
+    code: "AB",
+    dialCode: "7",
+    minLength: 10,
+    maxLength: 10,
+  ),
+  Country(
     name: "Afghanistan",
     nameTranslations: {
       "sk": "Afganistan",
